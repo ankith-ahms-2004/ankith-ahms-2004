@@ -30,7 +30,7 @@ const about = {
   Tools: [Git, GitHub, VS Code, Figma, Canva, Postman, UiPath],
   Databases & Cloud: [MongoDB, PostgreSQL, Firebase ],
   Concepts: ["OOP", "DSA", "DBMS", "Operating Systems", "Computer Networks" ],
-  Libraries: [pandas, NumPy, Matplotlib, Selenium]
+  Libraries: [Pandas, NumPy, Matplotlib, Selenium]
 }
 ```
 
@@ -38,7 +38,7 @@ const about = {
 
 
 =======
->>>>>>> de9f86c86aeb8510f57c0b3569f84386963fa48e
+>>>>>>>
 
 <summary><b>⚙️ GitHub Analytics</b></summary><br>
   <div align="center">
