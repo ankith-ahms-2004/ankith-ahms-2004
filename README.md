@@ -17,6 +17,28 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankith2004ahms&theme=dark&hide_border=false)<br/>
+<<<<<<< HEAD
+
+
+
+### A little more about me...  
+
+```javascript
+const about = {
+  code: [Python, C , C#, HTML, CSS, JavaScript, SQL],
+  Web & Frameworks: [MERN Stack, Next.js, React, Node.js, Express.js, Tailwind CSS],
+  Tools: [Git, GitHub, VS Code, Figma, Canva, Postman, UiPath],
+  Databases & Cloud: [MongoDB, PostgreSQL, Firebase ],
+  Concepts: ["OOP", "DSA", "DBMS", "Operating Systems", "Computer Networks" ],
+  Libraries: [pandas, NumPy, Matplotlib, Selenium]
+}
+```
+
+---
+
+
+=======
+>>>>>>> de9f86c86aeb8510f57c0b3569f84386963fa48e
 
 <summary><b>⚙️ GitHub Analytics</b></summary><br>
   <div align="center">
